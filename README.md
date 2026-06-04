@@ -1,4 +1,5 @@
 ResolveX 
+
 ResolveX is a smart complaint management system designed for educational institutions. Students can submit complaints — anonymously if needed — with supporting proofs, while admins get a powerful dashboard with analytics, complaint categorization, and management tools. Built to make the resolution process transparent, organized, and efficient for everyone involved.
 
 ✨ Features
